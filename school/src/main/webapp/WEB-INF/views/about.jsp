@@ -9,6 +9,9 @@
 <body>
 <center>
 <h1>Welcome To About Page!</h1>
+<p>
+About this company is here :)
+</p>
 </center>
 
 </body>
